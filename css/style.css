@@ -1,0 +1,46 @@
+.input {
+	border:0px solid;
+	border-radius:10px;
+	height: 30px;
+	width: 350px;
+	font-size: 1em;
+	padding-left: 55px;
+}
+
+.user {
+	background: url("../images/User1.jpg"); 
+	background-repeat: no-repeat; 
+	background-position: left center;
+	background-size: 45px; 
+    background-color: #ffffff;
+    margin-left: 19px;
+}
+
+
+.password {
+	background: url("../images/Pw1.jpg"); 
+	background-repeat: no-repeat; 
+	background-position: left center;
+	background-size: 45px;
+    background-color: #ffffff;
+    margin-left: -415px;
+}
+.Login1
+{
+    background-color: #ff6c00;
+    background-position: absolute;
+    color: #ffffff;
+    font-size: 18px;
+    margin-left: 188px;
+    border:0px solid;
+    border-radius:10px;
+    padding: 10px;
+    margin-top: -20px;
+}
+p
+{
+    margin-left:-151px; 
+    color: #79a2ff;
+    font-size:16px;
+    
+}
